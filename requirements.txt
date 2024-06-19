@@ -4,9 +4,21 @@ numpy
 scikit-learn
 pymongo
 python-dotenv
+watchfiles
+mypy-boto3-s3
+watchfiles
 PyYAML
 dill
-scipy 
+scipy
 imblearn
 xgboost
+fastapi
+uvicorn
+pip-chill
+neuro-mf
+websockets
+wincertstore
+s3transfer
+dnspython
+evidently
 #-e . 

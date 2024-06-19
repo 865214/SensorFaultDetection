@@ -1,0 +1,2 @@
+TRAINING_BUCKET_NAME = "sensor600"
+PREDICTION_BUCKET_NAME = "live_sensor"
