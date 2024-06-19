@@ -20,5 +20,5 @@ websockets
 wincertstore
 s3transfer
 dnspython
-evidentlygit 
+evidentlygit
 #-e . 
