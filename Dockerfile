@@ -1,5 +1,5 @@
 FROM python:3.8.5-slim-buster
-RUN apt update -y && apt install awscli -y
+RUN apt update -y && apt install -y awscli build-essential
 WORKDIR /app
 
 COPY . /app
