@@ -15,8 +15,8 @@ uvicorn==0.30.1
 pip-chill==1.0.3
 neuro-mf==0.0.5
 websockets==12.0
-wincertstore==0.2.1
+wincertstore==0.2
 s3transfer==0.10.1
 dnspython==2.6.1
 evidently==0.4.27
--e . 
+#-e . 
